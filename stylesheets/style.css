@@ -1,0 +1,12 @@
+@import "reset.css";
+@import "content.css";
+
+@font-face {
+    font-family: "Soundblaster 5";
+    src: url("../fonts/soundblaster-5.otf")
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("../fonts/helvetica_bold.otf")
+}
